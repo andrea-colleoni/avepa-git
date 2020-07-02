@@ -1,3 +1,5 @@
 contenuto della modifica!!
 altra modifica
-modifica da vs code (ma sol ramo master)
+modifica da vs code (ma sol ramo master)altra modifica
+modifica da VS code
+commento della merge commit
